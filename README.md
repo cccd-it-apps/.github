@@ -1,1 +1,1 @@
-# District IT Application Support 
+# Repository to maintain the organization's public page
